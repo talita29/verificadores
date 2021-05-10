@@ -1,2 +1,2 @@
 # verificadores
--verificando data e hora
+-verificando data e hora.
